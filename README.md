@@ -1,9 +1,17 @@
 ### Percepción Remota 
-### Maestría en Geomatica - Código curso 2020039 - 2022-1S 
+### Maestría en Geomatica - Código curso 2020039 - 2023-1S 
 
-Este es un curso que se dictará  entre el 7 de marzo y el 1 de julio (miércoles entre 2:00 pm y 6:00 pm)
+This is the main communication site for the course. Here you will find the lectures, readings, and assignments. This is a place to visit regularly.
 
-## Semana 1 -  7-11   Marzo
+Objectives
+The purpose of this course is to strengthen the theoretical foundations of remote sensing and to develop the student's skills for digital image processing and analysis. This course focuses on the development of capabilities
+Week 1 – Geospatial data and information – 8 - 9 Februaryto conduct research using earth observation data.
+
+[Course syllabus]()
+
+Schedule
+
+## Week 1 – Principles of remote sensing – 8 February
 
 - Presentación:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.io/PR2022/pra_S0.html)
@@ -15,7 +23,6 @@ Este es un curso que se dictará  entre el 7 de marzo y el 1 de julio (miércole
    - [Tasks](https://drive.google.com/file/d/1t5K1542-XjaEe0SsqtJs9BlpqAdNt9JV/view?usp=sharing):
      -  R & RStudio installation 
      -  [Getting started with RPubs](https://rpubs.com/about/getting-started)
-  
   
 - Practical:
   - R track:
