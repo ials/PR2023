@@ -7,17 +7,14 @@ This is the main communication site for the course. Here you will find the lectu
 
 The purpose of this course is to strengthen the theoretical foundations of remote sensing and to develop the student's skills for digital image processing and analysis. This course focuses on developing critical thinking to conduct research using earth observation data.
 
+The course syllabus is available at [this link](https://drive.google.com/drive/folders/1tsk5spCcXs8771ClHCDuIt72wRfyqzQT?usp=sharing)
 
-
-### [Course syllabus]()
-
-### Schedule
 
 ### SCHEDULE:
 
 ### **PART 1 - FUNDAMENTALS**
 
-### Week 1 – Remote sensing and digital image processing – Cap. 1 from Jensen (2015) 
+### Week 1 – Remote sensing and digital image processing – Cap. 1 from [Jensen (2015)](https://drive.google.com/file/d/1iW6mQWtT65H3QMhD9Lp7vsg7qG3mbNr1/view?usp=sharing) 
 
 Topics:
 -	¿What is remote sensing?
