@@ -38,7 +38,7 @@ TBW
 
 TBW
 
-###  **PART 2 – IMAGE ACQUISICION**
+###  **PART 2 – IMAGE ACQUISITION**
 
 ### Week 4 – Digital cameras  – Cap. 4 fom Campbell (2022)
 
