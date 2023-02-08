@@ -9,7 +9,6 @@ The purpose of this course is to strengthen the theoretical foundations of remot
 
 The course syllabus is available at [this link](https://drive.google.com/file/d/1fSnBiRW1QKYZwPiZF9AVkP8oaai-_3eA/view?usp=sharing)
 
-
 ### SCHEDULE:
 
 ### **PART 1 - FUNDAMENTALS**
