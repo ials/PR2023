@@ -40,10 +40,10 @@ Topics:
 
 
 In-class exercises:
-    - TBW
+- TBW
 
 Independent work:
-    - [Module 2: Exploring GEE Datasets](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module2.html)
+- [Module 2: Exploring GEE Datasets](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module2.html)
 
 ###  Week 3 – Platforms and sensors - Cap. 3 from Campbell (2022)
 
