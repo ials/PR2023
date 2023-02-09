@@ -29,9 +29,21 @@ In-class exercises:
 Independent work:
    - [Module 1: Introduction to Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module1.html)
 
-###  Week 2 -  Radiación electromagnética – Cap. 2 from Campbell (2022) 
+###  Week 2 -  Radiación electromagnética – Cap. 2 from [Campbell (2022)](https://drive.google.com/file/d/1CA7t5ehkzQUw273opW9M0TPeuqUubdER/view?usp=sharing) 
 
-TBW
+Topics:
+- The Electromagnetic Spectrum
+- Major Divisions of the Electromagnetic Spectrum 
+- Radiation Laws
+- Interactions with the Atmosphere
+- Interactions with Surfaces
+
+
+In-class exercises:
+    - TBW
+
+Independent work:
+    - [Module 2: Exploring GEE Datasets](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module2.html)
 
 ###  Week 3 – Platforms and sensors - Cap. 3 from Campbell (2022)
 
