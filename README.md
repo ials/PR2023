@@ -29,7 +29,7 @@ In-class exercises:
 Independent work:
    - [Module 1: Introduction to Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module1.html)
 
-###  Week 2 -  Radiación electromagnética – Cap. 2 from [Campbell (2022)](https://drive.google.com/file/d/1CA7t5ehkzQUw273opW9M0TPeuqUubdER/view?usp=sharing) 
+###  Week 2 -  Electromagnetic radiation – Cap. 2 from [Campbell (2022)](https://drive.google.com/file/d/1CA7t5ehkzQUw273opW9M0TPeuqUubdER/view?usp=sharing) 
 
 Topics:
 - The Electromagnetic Spectrum
