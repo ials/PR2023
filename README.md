@@ -31,7 +31,7 @@ Independent work:
 
 ###  Week 2 -  Electromagnetic radiation – Cap. 2 from [Campbell (2022)](https://drive.google.com/file/d/1CA7t5ehkzQUw273opW9M0TPeuqUubdER/view?usp=sharing) 
 
-Topics:
+[Topics](https://drive.google.com/file/d/1U3XPzI5oXUYxaWCQkeFxQFRBJ3AwTjNE/view?usp=share_link):
 - The Electromagnetic Spectrum
 - Major Divisions of the Electromagnetic Spectrum 
 - Radiation Laws
