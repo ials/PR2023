@@ -45,7 +45,7 @@ In-class exercises:
 Independent work:
 - [Module 2: Exploring GEE Datasets](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module2.html)
 
-###  Week 3 – Remote sensing of vegetation - Cap. 11 from Jensen (2007)
+###  Week 3 – Remote sensing of vegetation - Cap. 11 from [Jensen (2014)](https://drive.google.com/file/d/1vUJqOo5mWqGhLYMSM4BGcWOf4G8La53D/view?usp=sharing)
 
 [Topics](https://drive.google.com/file/d/1Tg3QqoOSR336ND3BhIU-3cY5Vt0DE4cq/view?usp=sharing):
 - Leaves
