@@ -45,9 +45,21 @@ In-class exercises:
 Independent work:
 - [Module 2: Exploring GEE Datasets](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module2.html)
 
-###  Week 3 – Platforms and sensors - Cap. 3 from Campbell (2022)
+###  Week 3 – Remote sensing of vegetation - Cap. 11 from Jensen (2007)
 
-TBW
+[Topics](https://drive.google.com/file/d/1Tg3QqoOSR336ND3BhIU-3cY5Vt0DE4cq/view?usp=sharing):
+- Leaves
+- Plants
+- Canopies
+
+In-class exercises:
+- TBW
+
+Independent work:
+- [Module 3: Raster interpretation and visualization](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module3.html)
+
+**REFERENCIA**
+- [Cómo usar Google Earth Engine y no Fallar en el Intento](https://www.ciga.unam.mx/publicaciones/images/abook_file/9789585183551-Como-usar-Google-Earth-Engine-y-no-fallar-en-el-intento.pdf)
 
 ###  **PART 2 – IMAGE ACQUISITION**
 
