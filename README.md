@@ -53,19 +53,31 @@ Independent work:
 - Canopies
 
 In-class exercises:
-- TBW
+- Start Module 3 below
 
 Independent work:
-- [Module 3: Raster interpretation and visualization](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module3.html)
+- Replicate these tutorials with data for your study area:
+  - [Module 3: Raster interpretation and visualization](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module3.html)
+  - [Module 4: Moving Data In and Out of Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module4-interoperability.html)
+    - **Download IDEAM landcover data from [here](http://www.ideam.gov.co/capas-geo)**
 
 **REFERENCIA**
 - [Cómo usar Google Earth Engine y no Fallar en el Intento](https://www.ciga.unam.mx/publicaciones/images/abook_file/9789585183551-Como-usar-Google-Earth-Engine-y-no-fallar-en-el-intento.pdf)
 
 ###  **PART 2 – IMAGE ACQUISITION**
 
-### Week 4 – Digital cameras  – Cap. 4 fom Campbell (2022)
+### Week 4 – The real potential of remote sensing to map aboveground biomass in tropical forests (Nidhi, 2022)
 
-TBW
+Topics:
+- Presentation of [Nidhi's article](https://drive.google.com/file/d/1saU8AsPL0T2KgWoVRXJ4k2gb_MjiYw8D/view?usp=sharing)
+- Discussion
+
+In-class exercises:
+- Start module 5 below
+
+Independent work:
+- Replicate these tutorials with data for your study area:
+  - [Module 5: Raster Pre-processing](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module5.html)
 
 ###  Week 5 – Image interpretation  – Cap. 6 from Campbell (2022)
 
