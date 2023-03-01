@@ -70,7 +70,8 @@ Independent work:
 
 Topics:
 - Presentation of [Nidhi's article](https://drive.google.com/file/d/1saU8AsPL0T2KgWoVRXJ4k2gb_MjiYw8D/view?usp=sharing)
-- Discussion                     [*](https://drive.google.com/file/d/1oOVo5Nro2cS_-DQnYmSCBxW2I5eE81oD/view)                                              
+  - [**P**](https://drive.google.com/file/d/1qEFSSLKdGK_rB45JcbYEpC8wmW4Oyfq1/view?usp=sharing)
+- Discussion                     [**D**](https://drive.google.com/file/d/1oOVo5Nro2cS_-DQnYmSCBxW2I5eE81oD/view)                                              
 
 In-class exercises:
 - Start module 5 below
