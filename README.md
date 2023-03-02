@@ -80,9 +80,21 @@ Independent work:
 - Replicate these tutorials with data for your study area:
   - [Module 5: Raster Pre-processing](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module5.html)
 
-###  Week 5 – Image interpretation  – Cap. 6 from Campbell (2022)
+###  Week 5 – Image interpretation  – [Cap. 6 from Campbell (2022)](https://drive.google.com/file/d/1rJ6hrQpt0PlAzlyAkw9mvi7IY7b5ha69/view?usp=sharing)
 
-TBW
+Topics:
+- The Context for Image Interpretation
+-  Image Interpretation Tasks
+-  Elements of Image Interpretation
+-  Collateral Information
+
+In-class exercises:
+- Start module 6 below
+
+Independent work:
+- Replicate this tutorial with data for your study area:
+  - [Module 5: Developing Indices in Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module6.html)
+
 
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
 
