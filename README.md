@@ -82,11 +82,12 @@ Independent work:
 
 ###  Week 5 – Image interpretation  – [Cap. 6 from Campbell (2022)](https://drive.google.com/file/d/1rJ6hrQpt0PlAzlyAkw9mvi7IY7b5ha69/view?usp=sharing)
 
-Topics:
-- The Context for Image Interpretation
+[Topics](https://drive.google.com/file/d/1CyTkZSLbzQi6CMdA_ihJZx39OO9K1MaD/view?usp=sharing):
+-  TWhat is image interpretation
+-  Why image interpretation is useful
 -  Image Interpretation Tasks
 -  Elements of Image Interpretation
--  Collateral Information
+-  Classification schemas
 
 In-class exercises:
 - Start module 6 below
