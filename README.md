@@ -83,8 +83,8 @@ Independent work:
 ###  Week 5 – Image interpretation  – [Cap. 6 from Campbell (2022)](https://drive.google.com/file/d/1rJ6hrQpt0PlAzlyAkw9mvi7IY7b5ha69/view?usp=sharing)
 
 [Topics](https://drive.google.com/file/d/1CyTkZSLbzQi6CMdA_ihJZx39OO9K1MaD/view?usp=sharing):
--  TWhat is image interpretation
--  Why image interpretation is useful
+-  What is image interpretation?
+-  Why image interpretation is useful?
 -  Image Interpretation Tasks
 -  Elements of Image Interpretation
 -  Classification schemas
@@ -94,7 +94,7 @@ In-class exercises:
 
 Independent work:
 - Replicate this tutorial with data for your study area:
-  - [Module 5: Developing Indices in Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module6.html)
+  - [Module 6: Developing Indices in Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module6.html)
 
 
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
