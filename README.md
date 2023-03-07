@@ -95,6 +95,8 @@ In-class exercises:
 Independent work:
 - Replicate this tutorial with data for your study area:
   - [Module 6: Developing Indices in Google Earth Engine](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module6.html)
+- Create "fichas técnicas" for the land cover classes you are interested in:
+  - [Reference](https://siatac.co/Documentos/simcoba/coberturas_100k/publicaciones/Fichas%20de%20Patrones%20coberturas%202002.pdf)
 
 
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
