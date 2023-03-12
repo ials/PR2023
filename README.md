@@ -101,7 +101,18 @@ Independent work:
 
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
 
-TBW
+[Topics]
+-
+-
+-
+
+In-class exercises:
+- Replicate spectral response curves tutorials below
+
+Independent work:
+- Replicate these tutorials with data for your study area:
+  - [Plotting spectral response curves](https://github.com/geospatialeco/GEARS/blob/master/Intro_RS_Lab6.md)
+  - [Spectral signatures](https://mygeoblog.com/2018/09/28/spectral-signature-sentinel-2/)
 
 ###  **PART 3 – IMAGE PROCESSING**
 
