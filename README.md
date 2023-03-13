@@ -102,15 +102,13 @@ Independent work:
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
 
 [Topics]
--
--
--
+- [Spectral indices for detecting built-up land areas](https://drive.google.com/file/d/1SuFdsBnsXNbGfl8nUCjcqyCz_ykaVEhg/view?usp=sharing)
 
 In-class exercises:
-- Replicate spectral response curves tutorials below
+- Replicate the spectral response curves tutorials below
 
 Independent work:
-- Replicate these tutorials with data for your study area:
+- Follow these tutorials with data for your study area:
   - [Plotting spectral response curves](https://github.com/geospatialeco/GEARS/blob/master/Intro_RS_Lab6.md)
   - [Spectral signatures](https://mygeoblog.com/2018/09/28/spectral-signature-sentinel-2/)
 
