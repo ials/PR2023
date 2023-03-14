@@ -101,7 +101,7 @@ Independent work:
 
 ### Week 6 – Advances and trends in remote sensing  (Ustin & Middleton, 2021)
 
-[Topics]
+[Topics](https://drive.google.com/file/d/1A0i_U7P6kG-cD6Ci6T_NCeyLPU8WE5CB/view?usp=sharing)
 - [Spectral indices for detecting built-up land areas](https://drive.google.com/file/d/1SuFdsBnsXNbGfl8nUCjcqyCz_ykaVEhg/view?usp=sharing)
 
 In-class exercises:
