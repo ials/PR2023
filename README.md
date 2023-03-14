@@ -105,12 +105,14 @@ Independent work:
 - [Spectral indices for detecting built-up land areas](https://drive.google.com/file/d/1SuFdsBnsXNbGfl8nUCjcqyCz_ykaVEhg/view?usp=sharing)
 
 In-class exercises:
-- Replicate the spectral response curves tutorials below
-
-Independent work:
 - Follow these tutorials with data for your study area:
   - [Plotting spectral response curves](https://github.com/geospatialeco/GEARS/blob/master/Intro_RS_Lab6.md)
   - [Spectral signatures](https://mygeoblog.com/2018/09/28/spectral-signature-sentinel-2/)
+
+
+Independent work:
+- Replicate this tutorial with data for your study area:
+  - [Module 7: Image classification](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module7.html)
 
 ###  **PART 3 – IMAGE PROCESSING**
 
