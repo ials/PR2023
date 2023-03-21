@@ -124,12 +124,12 @@ Independent work:
 
 In-class exercises:
 - Follow this tutorial with data for your study area:
-  - https://marcyinfeng.users.earthengine.app/view/siacs2-gee-based-sentinel-2-atmospheric-correction
+  - [SIAC on GEE](https://github.com/MarcYin/SIAC_GEE)
 
 
 Independent work:
-- Do another GEE iteration of your random forest (RF) land cover classification
-- Document this iteration
+- Do the second iteration of your random forest (RF) land cover classification in GEE
+- Make sure you document each iteration
 
 ### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
