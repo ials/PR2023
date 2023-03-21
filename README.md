@@ -118,7 +118,7 @@ Independent work:
 
 ###  Week 7 – Atmospheric correction
 
-[Topics]
+[Topics](https://drive.google.com/file/d/1sTZbK78LIFN2193e7B9hdrK79SJFHfve/view?usp=sharing)
 - [Remote sensing atmospheric correction](https://drive.google.com/file/d/1ddXi-7a5Z-_bnSRTo5qhUBUeWGhrRO0W/view?usp=sharing)
 - [Bayesian atmospheric correction over land](https://gmd.copernicus.org/articles/15/7933/2022/)
 
