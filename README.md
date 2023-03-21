@@ -116,11 +116,22 @@ Independent work:
 
 ###  **PART 3 – IMAGE PROCESSING**
 
-### Week 7 – Modern photogrammetry (Forsmoo et al., 2019) 
+###  Week 7 – Atmospheric correction
 
-TBW
+[Topics]
+- [Remote sensing atmospheric correction](https://drive.google.com/file/d/1ddXi-7a5Z-_bnSRTo5qhUBUeWGhrRO0W/view?usp=sharing)
+- [Bayesian atmospheric correction over land](https://gmd.copernicus.org/articles/15/7933/2022/)
 
-###  Week 8 – Radiometric corrections 
+In-class exercises:
+- Follow this tutorial with data for your study area:
+  - https://marcyinfeng.users.earthengine.app/view/siacs2-gee-based-sentinel-2-atmospheric-correction
+
+
+Independent work:
+- Do another GEE iteration of your random forest (RF) land cover classification
+- Document this iteration
+
+### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
 TBW
 
