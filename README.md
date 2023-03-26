@@ -134,8 +134,8 @@ Independent work:
 
 ### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
-[Topics]
-- [Stereo systems](https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf)
+Topics:
+  - [Stereo systems](https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf)
 
 **Students  will write the first examination on 29th March (25% of the final grade)**
 
