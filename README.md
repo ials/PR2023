@@ -134,8 +134,10 @@ Independent work:
 
 ### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
-**Students  will submit the first report before 22th March at 12:00 midnight (25% of the final grade)**
+[Topics]
+- [Stereo systems](https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf)
 
+**Students  will write the first examination on 29th March (25% of the final grade)**
 
 ###  Week 9 – Geometric corrections 
 
