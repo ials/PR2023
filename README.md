@@ -126,6 +126,7 @@ In-class exercises:
 - Follow this tutorial with data for your study area:
   - [SIAC on GEE](https://github.com/MarcYin/SIAC_GEE)
 
+**Students  will submit the first report before 22th March at 12:00 midnight (25% of the final grade)**
 
 Independent work:
 - Do the second iteration of your random forest (RF) land cover classification in GEE
@@ -133,7 +134,8 @@ Independent work:
 
 ### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
-TBW
+**Students  will submit the first report before 22th March at 12:00 midnight (25% of the final grade)**
+
 
 ###  Week 9 – Geometric corrections 
 
