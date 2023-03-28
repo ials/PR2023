@@ -138,7 +138,8 @@ Topics:
   - [Epipolar geometry](https://web.stanford.edu/class/cs231a/course_notes/03-epipolar-geometry_2022.pdf)
   - [Stereo systems](https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf)
 
-**Students  will write the first examination on 29th March (25% of the final grade)**
+**Students enrolled in the course will write the first examination on 29th March (25% of the final grade)**
+  - [List of enrolled students](https://drive.google.com/file/d/10dH8K7aAcDeA2EVcFy3Dw0lKKjcO0IkF/view?usp=sharing)
 
 ###  Week 9 – Geometric corrections 
 
