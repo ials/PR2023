@@ -135,11 +135,19 @@ Independent work:
 ### Week 8 – Modern photogrammetry (Forsmoo et al., 2019) 
 
 Topics:
+- Essential reference:
+  - [3D Structure from 2D Motion](http://www.cs.columbia.edu/~jebara/papers/sfm.pdf)
+  
+- Additional references:
   - [Epipolar geometry](https://web.stanford.edu/class/cs231a/course_notes/03-epipolar-geometry_2022.pdf)
   - [Stereo systems](https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf)
 
 **Students enrolled in the course will write the first examination on 29th March (25% of the final grade)**
   - [List of enrolled students](https://drive.google.com/file/d/10dH8K7aAcDeA2EVcFy3Dw0lKKjcO0IkF/view?usp=sharing)
+  - Make sure you register in the canvas platform before coming to the classroom
+  
+Independent work:
+  - [Time series analysis in GEE](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module8-timeSeries.html)
 
 ###  Week 9 – Geometric corrections 
 
