@@ -154,6 +154,7 @@ Topics:
 
 - Topics
   - [Structure from Motion](https://drive.google.com/file/d/1GzDTDFVRSmXkLch8t2NUwI9_HGScaJaQ/view?usp=sharing)
+  - [Pre-processing UAV images](https://drive.google.com/drive/folders/1a4rW-QzHWO2AcLryZB-5w9tyQrDQCOPs)
 
 - Reference
   - [Processing Coastal Imagery With Metashape](https://pubs.usgs.gov/of/2021/1039/ofr20211039.pdf)
