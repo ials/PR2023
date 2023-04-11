@@ -146,13 +146,21 @@ Topics:
   - [List of enrolled students](https://drive.google.com/file/d/10dH8K7aAcDeA2EVcFy3Dw0lKKjcO0IkF/view?usp=sharing)
   - Make sure you register in the canvas platform before coming to the classroom
   
-Independent work:
+- Independent work:
   - [Time series analysis in GEE](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module8-timeSeries.html)
-
+  
+    
 ###  Week 9 – Geometric corrections 
 
-TBW
+- Topics
+  - [Structure from Motion](https://drive.google.com/file/d/1GzDTDFVRSmXkLch8t2NUwI9_HGScaJaQ/view?usp=sharing)
 
+- Reference
+  - [Processing Coastal Imagery With Metashape](https://pubs.usgs.gov/of/2021/1039/ofr20211039.pdf)
+  
+- Independent work:
+  - TBD
+  
 ### PART  4 – IMAGE ANALISIS 
 
 ###  Week  10 – Basics of machine learning
