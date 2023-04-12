@@ -162,6 +162,8 @@ Topics:
 - Independent work:
   - TBD
   
+- [Notas Informe No. 1](https://drive.google.com/file/d/1BphSO3ISq81ti_D5ONPmAeZQZNs57IeE/view?usp=sharing)
+  
 ### PART  4 – IMAGE ANALISIS 
 
 ###  Week  10 – Basics of machine learning
