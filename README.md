@@ -174,7 +174,7 @@ Topics:
   - What are random forests (RF)?
   
 - In-class exercise:
-  -[Generating your own samples](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module9_occularSampling2.html)
+  - [Generating your own samples](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module9_occularSampling2.html)
   
 - Independent work
   - Adapt the sampling generation exercise to your image analysis problem
