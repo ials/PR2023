@@ -166,9 +166,12 @@ Topics:
   
 ### PART  4 – IMAGE ANALISIS 
 
-###  Week  10 – Basics of machine learning
+###  Week  10 – Basics of machine learning (ML)
 
-TBW
+- [Topics](https://drive.google.com/file/d/1uEXnSgmwINZF27Ej93xDxgXDw5z-dLP0/view?usp=sharing):
+  - What is ML?
+  - What are decision trees (DT)?
+  - What are random forests (RF)?
 
 ###  Week 11 - 12 – Extraction of cualitative information
 
