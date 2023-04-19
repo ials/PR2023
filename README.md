@@ -168,10 +168,12 @@ Topics:
 
 ###  Week  10 – Basics of machine learning (ML)
 
-- [Topics](https://drive.google.com/file/d/1uEXnSgmwINZF27Ej93xDxgXDw5z-dLP0/view?usp=sharing):
+Topics:
+- [Basics of ML](https://drive.google.com/file/d/1uEXnSgmwINZF27Ej93xDxgXDw5z-dLP0/view?usp=sharing):
   - What is ML?
   - What are decision trees (DT)?
   - What are random forests (RF)?
+- [Sample size for accuracy assessment](https://docs.google.com/presentation/d/1x6D7MirLNR-uVqH9-nguvbOrZHj2kiQ0/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
   
 - In-class exercise:
   - [Generating your own samples](https://ecodata.nrel.colostate.edu/gdpe-gee-remote-sensing-lessons/module9_occularSampling2.html)
