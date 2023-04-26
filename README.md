@@ -164,7 +164,7 @@ Topics:
   
 - [Notas Informe No. 1](https://drive.google.com/file/d/1BphSO3ISq81ti_D5ONPmAeZQZNs57IeE/view?usp=sharing)
   
-### PART  4 – IMAGE ANALISIS 
+### PART  4 – IMAGE ANALYSIS 
 
 ###  Week  10 – Basics of machine learning (ML)
 
