@@ -192,4 +192,4 @@ Topics:
   - [RF Species Classification](https://www.neonscience.org/resources/learning-hub/tutorials/aop-gee-random-forest-classification)
   
 - Independent work
-  - If useful, adapt the GEE RF code to analyze your own images
+  - In case it is useful, adapt the GEE RF code to analyze your own images
