@@ -185,7 +185,7 @@ Topics:
 
 Topics:
 - [ML-based maps of ecological variables](https://cloud.uni-jena.de/s/k9JKox4mLLPFcQm)
-- [Predicting into unknon space](https://drive.google.com/file/d/1ULoyF6ogmZg012xbSjvoo2HUFqwOZP0G/view?usp=sharing)
+- [Predicting into unknown space](https://drive.google.com/file/d/1ULoyF6ogmZg012xbSjvoo2HUFqwOZP0G/view?usp=sharing)
 
 
 - In-class exercise:
