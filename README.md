@@ -181,13 +181,15 @@ Topics:
 - Independent work
   - Adapt the sampling generation exercise to your image analysis problem
 
-###  Week 11 - Machine learning  of cualitative information
+###  Week 11 - Machine learning  of ecological variables
 
 Topics:
 - [ML-based maps of ecological variables](https://cloud.uni-jena.de/s/k9JKox4mLLPFcQm)
+- [Predicting into unknon space](https://drive.google.com/file/d/1ULoyF6ogmZg012xbSjvoo2HUFqwOZP0G/view?usp=sharing)
+
 
 - In-class exercise:
   - [RF Species Classification](https://www.neonscience.org/resources/learning-hub/tutorials/aop-gee-random-forest-classification)
   
 - Independent work
-  - Adapt the GEE RF code to analyze your own images
+  - If useful, adapt the GEE RF code to analyze your own images
