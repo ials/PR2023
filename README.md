@@ -168,6 +168,8 @@ Topics:
 
 ###  Week  10 – Basics of machine learning (ML)
 
+See the recording of this week lecture [here](https://drive.google.com/file/d/1NG2bBwLPMPaJWBEcklXsjdYRDYVYR8iD/view?usp=sharing)
+
 Topics:
 - [Basics of ML](https://drive.google.com/file/d/1uEXnSgmwINZF27Ej93xDxgXDw5z-dLP0/view?usp=sharing):
   - What is ML?
