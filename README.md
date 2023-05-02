@@ -195,3 +195,15 @@ Topics:
   
 - Independent work
   - In case it is useful, adapt the GEE RF code to analyze your own images
+  
+### Week 12 - Object-based image analysis (OBIA)
+
+Topics:
+- [OBIA - Overview](https://drive.google.com/file/d/1q5GlZbLaznvBxC7mP0jICnU_ZHN8gkur/view?usp=sharing)
+
+- In-class exercise:
+  - [GEOBIA in GEE](https://joaootavionf007.medium.com/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
+  - [Object-based methods in GEE](https://developers.google.com/earth-engine/guides/image_objects
+
+- Independent work
+  - Continue iterating & writing your Informe No. 2
