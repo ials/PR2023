@@ -206,4 +206,4 @@ Topics:
   - [Object-based methods in GEE](https://developers.google.com/earth-engine/guides/image_objects)
 
 - Independent work
-  - Continue iterating & writing your Informe No. 2
+  - *Continue iterating & writing your Informe No. 2*
