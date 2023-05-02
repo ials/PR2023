@@ -203,7 +203,7 @@ Topics:
 
 - In-class exercise:
   - [GEOBIA in GEE](https://joaootavionf007.medium.com/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
-  - [Object-based methods in GEE](https://developers.google.com/earth-engine/guides/image_objects
+  - [Object-based methods in GEE](https://developers.google.com/earth-engine/guides/image_objects)
 
 - Independent work
   - Continue iterating & writing your Informe No. 2
