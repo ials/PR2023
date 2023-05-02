@@ -201,6 +201,9 @@ Topics:
 Topics:
 - [OBIA - Overview](https://drive.google.com/file/d/1q5GlZbLaznvBxC7mP0jICnU_ZHN8gkur/view?usp=sharing)
 
+Reference:
+- [GEOBIA – Towards a new paradigm](https://drive.google.com/file/d/1K7F7aUabkK018UlMMjfgyaqG-2N9vgW1/view?usp=sharing)
+
 - In-class exercise:
   - [GEOBIA in GEE](https://joaootavionf007.medium.com/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
   - [Object-based methods in GEE](https://developers.google.com/earth-engine/guides/image_objects)
