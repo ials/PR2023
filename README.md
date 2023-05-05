@@ -210,3 +210,24 @@ Reference:
 
 - Independent work
   - *Continue iterating & writing your Informe No. 2*
+
+### Week 13 - Texture metrics
+
+- Topics:
+  - [GLCM textural metrics for remote sensing image analysis](https://drive.google.com/file/d/1nGmlchbBFR7Uqg8kZaPixiBwGUHUEUDz/view?usp=sharing)
+
+- In-class exercise:
+  - [Neighborhood based Image Transformations in GEE](https://google-earth-engine.com/Advanced-Image-Processing/Neighborhood-based-Image-Transformation/)
+
+- Readings:
+  - [The Comparison of Different Methods of Texture Analysis for Their Efficacy for Land Use Classification in Satellite Imagery](https://www.mdpi.com/2072-4292/11/10/1233/htm)
+  - [Practical guidelines for choosing GLCM textures to use in landscape classification tasks over a range of moderate spatial scales](https://www.tandfonline.com/doi/abs/10.1080/01431161.2016.1278314)
+
+- Independent work:
+  - Include textural metrics in your covariables dataset and examines its effects
+  - *Continue iterating & writing your Informe No. 2*
+
+
+
+
+
