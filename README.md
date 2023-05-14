@@ -227,6 +227,21 @@ Reference:
   - Include textural metrics in your covariables dataset and examines its effects
   - *Continue iterating & writing your Informe No. 2*
 
+### Week 14 - Machine Learning for Remote Sensing
+
+- Topics:
+  - There is no face-to-face class.  
+  - Instead, make sure you attend the following virtual sessions from NASA (and take notes):
+    - [Part 1: Overview of Machine Learning](https://youtu.be/U-uJGnhD-zg)
+    - [Part 2: Training Data and Land Cover Classification Example](https://youtu.be/5RIoU9ImnH0)
+
+- Independent work:
+  - *Complete & revise your Informe No. 2*
+  - Plazo para entrega de Informe No. 2
+    - 24 de Mayo - 2:00 pm -  
+    - Impresión a color
+
+
 
 
 
