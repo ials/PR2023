@@ -189,7 +189,6 @@ Topics:
 - [ML-based maps of ecological variables](https://cloud.uni-jena.de/s/k9JKox4mLLPFcQm)
 - [Predicting into unknown space](https://drive.google.com/file/d/1ULoyF6ogmZg012xbSjvoo2HUFqwOZP0G/view?usp=sharing)
 
-
 - In-class exercise:
   - [RF Species Classification](https://www.neonscience.org/resources/learning-hub/tutorials/aop-gee-random-forest-classification)
   
@@ -241,7 +240,7 @@ Reference:
     - 24 de Mayo - 2:00 pm -  
     - Impresión a color
 
-
+- [Notas Examen No. 1](https://drive.google.com/file/d/1cGpP05CKZvFCMT80eKSxrmGz42vJZODX/view?usp=sharing)
 
 
 
