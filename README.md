@@ -242,6 +242,21 @@ Reference:
 
 - [Notas Examen No. 1](https://drive.google.com/file/d/1cGpP05CKZvFCMT80eKSxrmGz42vJZODX/view?usp=sharing)
 
+### Week 15 - Machine Learning for Remote Sensing (cont.)
+
+- Topics:
+  - There is no face-to-face class.  
+  - Instead, make sure you attend the following virtual session from NASA (and take notes):
+    - [Part 3: Model Tuning, Parameter Optimization, and other ML Algorithms](https://youtu.be/M369bW8FJpQ)
+
+- Independent work:
+  - *Complete & revise your Informe No. 2*
+  - Nuevo plazo para entrega de Informe No. 2
+    - 26 de Mayo - dejarlo en Oficina 333 antes de las 11:59 am -  
+    - Impresión a color
+    - Sobre sellado marcado con su nombre
+
+  - *Study for Examen No. 2 (to be written on 31 May at 2:00 pm)*
 
 
 
