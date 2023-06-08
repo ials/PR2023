@@ -258,7 +258,7 @@ Reference:
 
   - *Study for Examen No. 2 (to be written on 31 May at 2:00 pm)*
 
-### Week 15 - NOTAS 
+### Week 16 - NOTAS 
 
 - [Notas - 07.06.2023](https://drive.google.com/file/d/10JVvkLsAXfP92dULxPeXEwppJrX06S7G/view?usp=sharing)
 
