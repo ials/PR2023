@@ -261,4 +261,5 @@ Reference:
 ### Week 16 - NOTAS 
 
 - [Notas - 07.06.2023](https://drive.google.com/file/d/10JVvkLsAXfP92dULxPeXEwppJrX06S7G/view?usp=sharing)
+- [SIA - 12.06.2023](https://drive.google.com/file/d/1ZLG0QWRE60cIino36oeLILtUkxIoGXcn/view?usp=sharing)
 
